@@ -1,4 +1,5 @@
 .env
 .DS_Store
+dump_go_ride.sql
 /backend/
 /frontend/
